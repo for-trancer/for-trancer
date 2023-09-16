@@ -1,4 +1,4 @@
-# Hi, I'm Arjun - for-trancer 👋
+# Hi, I'm Arjun 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/for-trancer?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/for-trancer?style=social) ![Instagram followers](https://img.shields.io/badge/Instagram-%40for.trancer-blueviolet?style=social&logo=instagram)
 
