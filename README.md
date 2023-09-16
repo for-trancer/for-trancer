@@ -12,7 +12,7 @@ I'm a passionate B.Tech Computer Science student with a knack for coding and a c
 
 ## Projects
 Here are a few projects I've worked on:
-- [ChatBox](https://github.com/for-trancer/ChatBox): ChatBox is an online messaging platform developed using PHP, AJAX, and MySQL. It provides a global chat section where users can interact with each other in real-time, as well as a personal messaging section for private conversations. The platform features secure user authentication, input validation to prevent common XSS attacks, and real-time message updates.
+- [ChatBox](https://github.com/for-trancer/ChatBox): is an online messaging platform developed using PHP, AJAX, and MySQL. It provides a global chat section where users can interact with each other in real-time, as well as a personal messaging section for private conversations. The platform features secure user authentication, input validation to prevent common XSS attacks, and real-time message updates.
 
 
 Feel free to explore my repositories for more interesting projects.
