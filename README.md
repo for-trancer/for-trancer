@@ -8,7 +8,7 @@ I'm a passionate B.Tech Computer Science student with a knack for coding and a c
 - 🔭 I'm currently pursuing my Bachelor's degree in Computer Science.
 - 🌱 I'm enthusiastic about software development and constantly learning new programming languages and tools.
 - 📚 I'm proficient in basics of Java and C, with experience in MySQL, PHP, and moderate skills in HTML and CSS.
-- 🎨 I enjoy graphic designing using Photoshop, adding an artistic dimension to my projects.
+- 🎨 I enjoy graphic designing using Photoshop,Blender and After Effects.Adding an artistic dimension to my projects.
 
 ## Projects
 Here are a few projects I've worked on:
