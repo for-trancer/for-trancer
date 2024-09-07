@@ -21,7 +21,6 @@ Here are a few projects I've worked on:
 Feel free to explore my repositories for more interesting projects.
 
 ## Portfolio
-# Portfolio
 
 Welcome to my portfolio! Here, you can explore a curated selection of my graphic design work, including logos, posters, and digital artwork. Additionally, I’ve showcased my Blender renders and After Effects exports, reflecting my skills in 3D modeling and animation.
 
