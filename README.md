@@ -20,6 +20,14 @@ Here are a few projects I've worked on:
 
 Feel free to explore my repositories for more interesting projects.
 
+## Portfolio
+# Portfolio
+
+Welcome to my portfolio! Here, you can explore a curated selection of my graphic design work, including logos, posters, and digital artwork. Additionally, I’ve showcased my Blender renders and After Effects exports, reflecting my skills in 3D modeling and animation.
+
+[Graphic Design Portfolio](https://drive.google.com/drive/folders/1MkX5q7RnxW4DRvFqmpoSOmOpMIo2GTxQ): Here is a link to my Google Drive, where you can view my complete collection of artworks. Feel free to browse and get in touch if you’d like to collaborate!
+
+
 ## Get in Touch
 You can reach out to me on Instagram: [@for.trancer](https://www.instagram.com/for.trancer/)
 
