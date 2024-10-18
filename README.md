@@ -15,6 +15,7 @@ Here are a few projects I've worked on:
 
 - [NEXUS](https://github.com/for-trancer/NEXUS): is an advanced version of my previous project ChatBox, developed using PHP, MySQL, and Python for face authentication. It offers real-time private messaging, customizable themes, and message translation capabilities.
 - [Money Manager](https://github.com/for-trancer/money_manager): is my first Flutter app, designed to help users efficiently track their income, expenses, and manage custom financial categories
+- [Note App](https://github.com/for-trancer/note_app): A simple Flutter application for creating, modifying, and removing notes. This app provides a user-friendly interface for efficient note management.
 - [ChatBox](https://github.com/for-trancer/ChatBox): is an online messaging platform developed using PHP, AJAX, and MySQL. It provides a global chat section where users can interact with each other in real-time, as well as a personal messaging section for private conversations. The platform features secure user authentication, input validation to prevent common XSS attacks, and real-time message updates.
 
 
