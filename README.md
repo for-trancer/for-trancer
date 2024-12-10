@@ -13,7 +13,7 @@ I'm a passionate B.Tech Computer Science student with a knack for coding and a c
 ## Projects
 Here are a few projects I've worked on:
 
--[Netflix App](https://github.com/for-trancer/netflix_app): is a Flutter-based Netflix clone using the TMDB API to display real-time movie and TV show data. It features a BLoC-based architecture for state management, supports both light and dark themes, and is designed for adaptive viewing across different devices.
+- [Netflix App](https://github.com/for-trancer/netflix_app): is a Flutter-based Netflix clone using the TMDB API to display real-time movie and TV show data. It features a BLoC-based architecture for state management, supports both light and dark themes, and is designed for adaptive viewing across different devices.
 - [NEXUS](https://github.com/for-trancer/NEXUS): is an advanced version of my previous project ChatBox, developed using PHP, MySQL, and Python for face authentication. It offers real-time private messaging, customizable themes, and message translation capabilities.
 - [Money Manager](https://github.com/for-trancer/money_manager): is my first Flutter app, designed to help users efficiently track their income, expenses, and manage custom financial categories
 - [Note App](https://github.com/for-trancer/note_app): A simple Flutter application for creating, modifying, and removing notes. This app provides a user-friendly interface for efficient note management.
